@@ -1,0 +1,11 @@
+{
+  "name": "pixelmood-claude",
+  "version": "1.0.0",
+  "description": "SmallTV Ultra pixel display emotion integration for Claude Code. Auto-switches images based on Claude's current action.",
+  "author": {
+    "name": "goddaehee"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/goddaehee/pixelmood-claude",
+  "skills": ["./skills/pixelmood"]
+}

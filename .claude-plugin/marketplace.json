@@ -1,0 +1,22 @@
+{
+  "name": "pixelmood-claude",
+  "description": "SmallTV Ultra pixel display emotion integration for Claude Code",
+  "owner": {
+    "name": "goddaehee"
+  },
+  "plugins": [
+    {
+      "name": "pixelmood-claude",
+      "description": "Automatically display Claude Code's emotional state on GeekMagic SmallTV Ultra (240x240 Wi-Fi pixel display). Hooks auto-switch images based on what Claude is doing.",
+      "version": "1.0.0",
+      "author": {
+        "name": "goddaehee"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/goddaehee/pixelmood-claude",
+      "keywords": ["smalltv", "geekmagic", "pixel-display", "emotion", "iot", "hooks", "status"]
+    }
+  ],
+  "version": "1.0.0"
+}
