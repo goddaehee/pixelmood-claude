@@ -30,6 +30,9 @@
 
 ### 1. Claude Code에 플러그인 등록
 
+> **전역 설정 권장**: SmallTV는 물리적 디바이스이므로 프로젝트와 무관하게 항상 동작해야 합니다.
+> `~/.claude/settings.json`(전역)에 추가하세요. 특정 프로젝트에서만 사용하려면 `.claude/settings.json`에 추가하면 됩니다.
+
 `~/.claude/settings.json`에 추가:
 
 ```json
